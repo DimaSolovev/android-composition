@@ -1,4 +1,4 @@
-package com.dima.composition.presentaion
+package com.dima.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
